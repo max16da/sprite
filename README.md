@@ -1,2 +1,2 @@
 # sprite
-Animate un sprite
+Animate a sprite
